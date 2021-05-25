@@ -30,4 +30,4 @@ Textos fixos
   }
 }
 ```
-https://meu-blog-responsivo.netlify.app/
+https://responsivo-css.vercel.app/
